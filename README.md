@@ -1,5 +1,5 @@
 
-# Build and deploy a hello-world application on Kubernetes
+# Build and deploy a hello-world application on Kubernetes!
 
 Container-based software development is growing. Since it's easy to replicate the environment, developers generally create applications on their desktop, and debug and test them locally. Later they build and deploy the application to a Kubernetes cluster. 
 
